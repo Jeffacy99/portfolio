@@ -29,14 +29,11 @@ ul {
 }
 img
 {
-	position:sticky;
+	position:inherit;
 	max-width: 80%;
 	top: 15%;
   bottom: 10%;
 	left: 20%;
 	border-radius: 3px;
 	box-shadow: 0 3px 6px rgba(0,0,0,0.9);
-}
-ul{
-  text-align: center;
 }
