@@ -5,9 +5,10 @@ Japheth mwania
 
 ##Project Setup Instructions
 Text editor - I used atom
+used google chrome
 Github account
 Git installed in laptop
-Terminal
+Ubuntu Terminal
 
 ##live website
 https://jeffacy99.github.io/portfolio/
